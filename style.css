@@ -1,0 +1,155 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: white;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*header*/
+header{
+    background: #143d59;
+    color: white;
+    padding: 10px 0;
+}
+header a{
+    color:white;
+    font-size: 20 px;
+}
+header li{
+    display: inline;
+    padding: 0 20px;
+}
+#caption{
+    float: left;
+}
+#caption h2{
+    margin: 0;
+}
+header nav{
+    float: right;
+    margin-top: 10px;
+}
+.she,.current a{
+    color: #f4b41a;
+    font-weight: bold;
+}
+header a:hover{
+    color: grey;
+    font-weight: bold;
+}
+#Heading {
+    min-height: 500px;
+    background-image:url('https://itxitpro.com/front/img/web-development-services.jpg');
+    padding: 0%;
+    margin: 0%;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    color: white;
+    font-size: 50px;
+}
+#heading h1{
+    margin-top: 10px;
+    margin-bottom: 0%;
+    font-family: 'Abril Fatface', cursive;
+    font-weight:bolder;
+}
+.search{
+    padding: 25px;
+    background-color:#143d59; 
+}
+/* section images*/
+#images{
+    margin-top: 50px;
+    
+    
+}
+
+.align{
+    float: left;
+    text-align: center;
+    padding: 10px;
+    width: 30%;
+    
+
+}
+.align h3{
+font-weight: bolder;
+font-size: 35px;
+}
+p.font{
+font-family: 'Lobster', cursive;
+font-size: 20px;
+}
+/*slogan*/
+#slogan h2{
+text-align: center;
+font-size: 55px;
+color:rgb(4,158,55);
+font-weight: bold;
+margin-top: 70px;
+margin-bottom: 50px;
+}
+#slogan p{
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+/*forms*/
+#forms{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Abril Fatface', cursive;
+    font-weight:bolder;
+
+  
+} 
+/*form field*/
+#myforms{
+    background-color: bisque;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 20px;
+}
+.tab{
+    padding-bottom: 15px;
+    font-size: 20px;
+    color: #f4b41a;
+    font: bold;
+}
+
+#myforms label{
+    display: block;
+}
+#video h2{
+    text-align: center;
+    font-size: 75px;
+    font-weight: bold;
+    color: rgb(4, 158,55);
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+#video{
+    margin-top: 25px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 30px;
+
+}
+#footer{
+    padding: 2opx;
+    margin-top: 20px;
+    color: #ffffff;
+    background: #143059;
+    text-align: center;
+}
